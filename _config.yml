@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               João Carabetta
-tagline:             "good public data"
+tagline:             "public data & math"
 url:                  http://joaocarabetta.github.io
 baseurl:              ""
 permalink:            /:year/:month/:day/:title/
