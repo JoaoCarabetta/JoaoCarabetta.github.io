@@ -30,7 +30,12 @@
         <small>
           &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. João Carabetta All rights reserved.
         </small>
+        {% for social in site.data.social %}
+        <a href= "{{ social.url }}">
+          <img src="/images/logo_social/{{ social.name }}.png" alt="{{ social.name }}" width="25" height="25"></a>
+        {% endfor %}
       </footer>
+
     </div>
 
     {% if site.analytics_id %}

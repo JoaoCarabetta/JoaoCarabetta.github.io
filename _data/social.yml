@@ -1,0 +1,11 @@
+# If you want to link only specific pages in your header, add the path to the
+# pages in order as they should show up.
+
+- name: medium
+  url: https://medium.com/@joaocarabetta
+- name: github
+  url: https://github.com/joaocarabetta
+- name: twitter
+  url: https://twitter.com/joaocarabetta
+- name: linkedin
+  url: https://www.linkedin.com/in/joaocarabetta
