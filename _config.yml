@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Vicki Boykis
-tagline:             "Data, tech, and sometimes Nutella"
-url:                  http://veekaybee.github.io
+title:               João Carabetta
+tagline:             "The good public data"
+url:                  http://joaocarabetta.github.io
 baseurl:              ""
 permalink:            /:year/:month/:day/:title/
 pagination: 100
@@ -19,12 +19,12 @@ sass:
 
 # About/contact
 author:
-  name:              Vicki Boykis
-  url:               https://twitter.com/vboykis
-  email:             vickiboykis@gmail.com
+  name:              João Carabetta
+  url:               https://twitter.com/joaocarabetta
+  email:             joao.carabetta@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 # github:
 #   repo:              https://github.com/v
 
