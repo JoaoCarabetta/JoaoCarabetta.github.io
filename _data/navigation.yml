@@ -4,10 +4,6 @@ main:
   - title: "About"
     url: /about/
   - title: "Twitter"
-    url: https://twitter.com/vboykis
+    url: https://twitter.com/joaocarabetta
   - title: "GitHub"
-    url: https://github.com/veekaybee
-  - title: "Personal"
-    url: http://www.vickiboykis.com
-  - title: "RSS"
-    url: /feed.xml
+    url: https://github.com/joaocarabetta
