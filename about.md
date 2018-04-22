@@ -4,27 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Vicki. I do data science. I work mostly in Python, R, Spark, and SQL, and really enjoy building end-to-end data products. 
+Hi! I am João, as you may already know. I am a data scientist interested in transforming peoples lives with information. The path that I have taken involves government, academia, activism and social data. I hope to get good recipes from this blend.
 
-I also like to think about what technology means in the context of society, and write about that, here, as well. 
+Currently, I am a Researcher at the Centre of Technology and Society (CTS) at FGV and Applied Master student at the same institution. At the CTS, I work along 5 latin American cities to improve their data usage. Also, I try to comprehend the Brazilian Congress as an institution to propose better ways to legislate.
 
-Talks I've Given Recently: 
+Outside academia, I expand my knowledge managing data projects for [Cognitivo.ai](www.cognitivo.ai) which is reinventing how companies put data on production.
 
-+ [Hadoop on Your Laptop](http://veekaybee.github.io/2017/03/20/hadoop-or-laptop/)
-+ [SQL for beginners](http://veekaybee.github.io/2017/04/20/sql-is-hard/)
-+ Skeptech: [Manuscripts don't burn](http://blog.vickiboykis.com/2017/06/19/skeptech/)
-+ [Breaking the Internet Bubble](https://www.icp.org/browse/archive/media/breaking-the-internet-bubble)
-+ [How to pick a data architecture strategy](https://www.youtube.com/watch?v=o-kbwKX3dus) 
-
-
-In my spare time, I write, read, run and enjoy Nutella. More at my [main site](http://www.vickiboykis.com). 
+I usually prefer to code in *get-it-running* language, which is often Python with SQL, Elastic Search, Docker at Google Cloud.
 
 
 ### Contact me
 
-I love getting emails. 
+Do not hesitate to email
 
-[vickiboykis@gmail.com](mailto:vickiboykis@gmail.com)
+[joao.carabetta@gmail.com](mailto:joao.carabetta@gmail.com)
 
 ### Sharing
 
