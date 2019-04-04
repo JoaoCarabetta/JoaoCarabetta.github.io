@@ -12,6 +12,8 @@ layout: default
     {% endif %}
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}{% if page.categories != empty %} • {% include category_links.html categories=page.categories %}{% endif %}</p>
   </header>
+  
+  <iframe width="600" height="2934" src="https://datastudio.google.com/embed/reporting/1RNjH0891ldAOEL65kVluN5Bm5fKT9MwM/page/CgQm" frameborder="0" style="border:0" allowfullscreen></iframe>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
